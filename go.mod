@@ -66,7 +66,7 @@ require (
 	github.com/shibukawa/configdir v0.0.0-20170330084843-e180dbdc8da0
 	github.com/sideshow/apns2 v0.20.0
 	github.com/skip2/go-qrcode v0.0.0-20200617195104-da1b6568686e
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.8.4
 	github.com/tailscale/depaware v0.0.0-20210622194025-720c4b409502
 	github.com/tj/assert v0.0.3
 	github.com/zcalusic/sysinfo v0.0.0-20200820110305-ef1bb2697bc2
@@ -113,7 +113,6 @@ require (
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/berty/emitter-go v0.0.0-20221031144724-5dae963c3622 // indirect
 	github.com/blang/semver/v4 v4.0.0 // indirect
-	github.com/btcsuite/btcd v0.22.1 // indirect
 	github.com/btcsuite/btcutil v1.0.3-0.20201208143702-a53e38424cce // indirect
 	github.com/bufbuild/connect-go v1.4.1 // indirect
 	github.com/bufbuild/protocompile v0.1.0 // indirect
